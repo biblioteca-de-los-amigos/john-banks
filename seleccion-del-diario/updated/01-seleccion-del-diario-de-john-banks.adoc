@@ -364,8 +364,13 @@ Y un poco de tiempo después de haber estado en su casa, nos dio nuestra liberta
 sin que pagáramos cuotas.
 Esto fue en el quinto mes del año 1663.
 
+[.offset]
 Lo siguiente es una carta que escribí cuando era prisionero en Carlisle.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Queridos Padres,
 
 Por la presente, ustedes podrán ver que sigo fiel a mi deber como hijo,
@@ -392,11 +397,16 @@ No se desanimen ni se desalienten por causa de mí, sino más bien gócense conm
 porque el Señor no solo nos ha tenido por dignos de creer en Su nombre,
 sino también de padecer por causa de Él.
 
-Desde la ciudad de Carlisle en Cumberland, el 8vo día del Quinto mes, 1663.
-
+[.signed-section-closing]
 De su obediente hijo,
 
+[.signed-section-signature]
 John Banks.
+
+[.signed-section-context-close]
+Desde la ciudad de Carlisle en Cumberland, el 8vo día del Quinto mes, 1663.
+
+--
 
 Un tiempo después,
 sentí inclinaciones en mi espíritu de ir a visitar algunos condados vecinos,
@@ -425,6 +435,10 @@ en las cuales teníamos mucho que hacer para el Señor y Su verdad.
 Desde Yorkshire viajamos a Nottinghamshire, Leicestershire y Warwickshire,
 donde tuvimos muchas reuniones benditas, y donde escribí la siguiente carta a mi esposa.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querida Esposa,
 
 Con quien estoy verdaderamente unido;
@@ -457,12 +471,21 @@ en dirección a Bristol, y luego hacer lo que sea que el Señor nos mande.
 Así, recordando mi deber con mis padres, y mi amor a los Amigos,
 como si hubiera mencionado todos sus nombres, sigo siendo tu querido y amoroso esposo,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Warwick, el 4to del Cuarto mes, 1668.
 
+--
+
+[.offset]
 La carta que me envió mi esposa.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querido Esposo,
 
 Después de una larga espera por oír de ti, antes de escribir esto,
@@ -489,9 +512,13 @@ ya sea que vivamos o que muramos; a cuyo cuidado y protección paternal te encom
 y te saludo con cariño, con amor a tu compañero John Wilkinson.
 Me despido de ti; y sigo siendo tu querida y amorosa esposa,
 
+[.signed-section-signature]
 Ann Banks
 
+[.signed-section-context-close]
 Whinfell-Hall, en Cumberland, el 19 del Quinto mes, 1668.
+
+--
 
 Desde aquí viajamos hacia el oeste, a través de una parte de Devonshire, y a Dorsetshire,
 Hampshire, Wiltshire y luego hasta Londres.
@@ -506,6 +533,10 @@ y muchos fueron convencidos de la verdad, quienes todavía viven en ella,
 y permanecen como testigos de Dios.
 En Londres, escribí las siguientes cartas a mi esposa y a mi aprendiz, Peter Fearon:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querida Esposa,
 
 Recibí tu carta, por la que me enteré de la gran debilidad en la que has estado,
@@ -536,6 +567,7 @@ considerando todo lo que ellos han hecho por mí. Te saludo con verdadero amor,
 pensando a menudo en nuestra pequeña, y al sentir mucho amor a los Amigos,
 y a los parientes y vecinos, sigo siendo tu cariñoso esposo,
 
+[.signed-section-signature]
 J+++.+++ B.
 
 Y ahora Peter Fearon, mi aprendiz: Toma nota,
@@ -586,11 +618,16 @@ la tomaré como si lo hicieras para mí. Y procura conducirte en amor,
 y ser un buen ejemplo en mi familia, para que así todos puedan vivir en amor y unidad;
 en la cual deseo que el Señor los mantenga a todos ustedes.
 
+[.signed-section-closing]
 Tu afectuoso maestro,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Desde Whitechapel en Londres, el tercer día del Sexto mes, 1668.
+
+--
 
 Desde ahí continué con mi viaje hacia el oeste,
 pero donde tuve más dificultad fue en Westmorland, y en Hartford cuando llegué a Londres,
@@ -626,9 +663,14 @@ pero el poder del Señor lo encadenó y limitó. Tuve muy poca comida y tiempo p
 especialmente en Wiltshire,
 porque los que eran de ese espíritu me seguían de una reunión a otra.
 
+[.offset]
 La siguiente carta se la escribí a mi hija,
 después de que ella comenzó a servir en una casa en Londres, en el año 1682.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Sarah Banks, mi hija mayor,
 
 Tú has sido muy cercana y querida para mí desde el día en que naciste, y,
@@ -713,12 +755,21 @@ tu corazón sea verdaderamente quebrantado y enternecido delante del Señor,
 y así te mantengas en toda mansedumbre y humildad ante Él,
 hasta el fin de tus días. Amén.
 
+[.signed-section-closing]
 Esta es la oración de tu tierno y afectuoso padre,
 
+[.signed-section-signature]
 John Banks.
 
+--
+
+[.offset]
 Este año fui a Irlanda otra vez, desde donde escribí la siguiente carta a mi esposa:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querida Esposa,
 
 En eso que abre mi corazón al Señor, y me enternece verdaderamente delante de Él,
@@ -802,7 +853,10 @@ quien es digno eternamente.
 Peter Fearon, quien fue mi siervo por siete años,
 ahora es mi fiel compañero en la obra del Evangelio.
 
+[.signed-section-context-close]
 Mountmellick en Irlanda, el veintitrés del Cuarto mes, 1682.
+
+--
 
 Al principio del segundo mes del año 1684,
 fui encarcelado a demanda del mencionado George Fletcher, encargado de la parroquia,
@@ -922,6 +976,10 @@ duramente tanto al carcelero como al guardia por esto,
 y un poco después lo dejaron ir.
 En ese día le escribí a mi esposa e hijos la siguiente carta.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querida Esposa,
 
 Realmente eres querida para mí--tan cercana a mí que somos en verdad uno,
@@ -1036,9 +1094,13 @@ por lo cual, el Señor sin duda lo alcanzará con Sus juicios.
 
 Sigo siendo tu amoroso esposo, mi querida esposa, y su tierno padre, mis queridos hijos,
 
+[.signed-section-signature]
 John Banks
 
+[.signed-section-context-close]
 Desde mi celda, en Carlisle, el 13vo del Séptimo mes, 1684.
+
+--
 
 En el 15vo del mismo mes, en la noche,
 el carcelero vino y nos mandó a Thomas Hall y a mí a la cárcel común,
@@ -1110,7 +1172,7 @@ y me dejó ahí tres días y noches más, y luego me sacó como dije antes.
 [.asterism]
 '''
 
-Como se mencionó anteriormente, John Banks siguió siendo prisionero por casi siete años,
+__Como se mencionó anteriormente, John Banks siguió siendo prisionero por casi siete años,
 pero finalmente obtuvo su libertad por un acta del Rey William III en 1690.
 Su esposa murió un año después de su libertad,
 y acerca de este doloroso acontecimiento él escribió lo siguiente:
@@ -1128,4 +1190,4 @@ Unas pocas horas antes de su muerte, les dijo a aquellos que estaban con él:
 no tengo nada más que hacer salvo morir, y terminaré en la verdad,
 así como comencé.`" Él estaba muy sensible al final,
 y después de una vida dedicada al progreso del reino de Jesucristo, murió en paz,
-el 6to del octavo mes, 1710, teniendo setenta y tres años.
+el 6to del octavo mes, 1710, teniendo setenta y tres años.__
